@@ -1,4 +1,3 @@
-layout_spectrum: 0.23499048058874905
 typography_spectrum: 0.9271858043503016
 color:
   brandStrength: 0.2112428112886846
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.23499048058874905
 name: UXforYourSoul
+title: Hello.
 description: Making the complex simple and profitable.
